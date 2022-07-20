@@ -1,0 +1,24 @@
+[
+    {
+    "frase":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre":"primer nombre",
+    "subtitulo":"consultor plataformas digitales",
+    "twiter":"@consultorplataformasdigitales",
+    "url":"https://firebasestorage.googleapis.com/v0/b/primer-angular-html.appspot.com/o/team-1.jpg?alt=media&token=24cbb7f3-7a80-4515-b1ed-22725e1d2507"
+    },
+    {
+    "frase":"Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+    "nombre":"Melisa Flores",
+    "subtitulo":"Inga. en Sistemas",
+    "twiter":"@mefloressistemas",
+    "url":"https://firebasestorage.googleapis.com/v0/b/primer-angular-html.appspot.com/o/team-2.jpg?alt=media&token=48fad800-9cf9-43dd-b7ec-4f3778b735f6"
+    },
+    null,
+    {
+    "frase":"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre":"eduardo prueba",
+    "subtitulo":"Ingeniero de Software",
+    "twiter":"@edusoftware",
+    "url":"https://firebasestorage.googleapis.com/v0/b/primer-angular-html.appspot.com/o/team-3.jpg?alt=media&token=a33bdaea-2bd2-4d65-b92e-a2bc0863fc5c"
+    }
+    ]
